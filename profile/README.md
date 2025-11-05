@@ -16,3 +16,4 @@ Big table of ideas:
 | Persephone | Calendar system                                                      | -                  | Greek goddess of spring, which begins each year when she returns from the underworld. | - |
 | Atlas      | Life meta-data collector, to construct a personal digital timeline.  | -                  | Titan carrying the world on his shoulders.                                            | - |
 | Hephaestus | General-purpose library, with common algorithms and data structures. | Multiple?          | Greek god of craftsmanship                                                            | - |
+| Alexandria | Documentation project, using different languages to write self-docs. | Multiple?          | Ancient Greek-built library                                                           | - |
